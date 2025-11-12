@@ -1,0 +1,27 @@
+Number of devices found: 5
+Device #1 info:
+        The device information could not be opened.
+        Most likely, it does not have a driver for interaction or its version is outdated.
+        Check the device driver and try again
+
+Device #2 info:
+        The device information could not be opened.
+        Most likely, it does not have a driver for interaction or its version is outdated.
+        Check the device driver and try again
+
+Device #3 info:
+        Device class:              00
+        Manufacturer:              Generic
+        Product:                   Mass Storage
+        Serial Number:             5850F2AB
+
+Device #4 info:
+        The device information could not be opened.
+        Most likely, it does not have a driver for interaction or its version is outdated.
+        Check the device driver and try again
+
+Device #5 info:
+        Device class:              Other
+        Manufacturer:              CHICONY
+        Product:                   Chicony USB2.0 Camera
+        Serial Number:             200901010001
